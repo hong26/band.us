@@ -5,6 +5,7 @@ Collection of Links for Web Designers
 ===== Pretty Websites
 
 * link:https://castle.co/design/basiliq[https://castle.co/design/basiliq]
+* link:http://vaalentin.github.io/2015/[http://vaalentin.github.io/2015/]
 * link:https://stripe.com/atlas[https://stripe.com/atlas]
 * link:http://www.penxo.com/[http://www.penxo.com/]
 * link:https://24ways.org/[https://24ways.org/]
