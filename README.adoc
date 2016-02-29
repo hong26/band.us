@@ -47,6 +47,6 @@
 * link:http://adamschwartz.co/magic-of-css/[http://adamschwartz.co/magic-of-css/]
 * link:https://lizheming.github.io/wtf-html-css/[https://lizheming.github.io/wtf-html-css/]
 
-===== Reading
+===== Coffee Time
 
 * link:http://www.inside.com.tw/2015/07/09/symptoms-of-over-designed-websites[http://www.inside.com.tw/2015/07/09/symptoms-of-over-designed-websites]
