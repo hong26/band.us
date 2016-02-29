@@ -15,20 +15,46 @@
 ===== Pretty Website
 
 * link:https://castle.co/design/basiliq[https://castle.co/design/basiliq]
+* link:https://stripe.com/atlas[https://stripe.com/atlas]
 * link:http://www.penxo.com/[http://www.penxo.com/]
 * link:https://24ways.org/[https://24ways.org/]
 
 ===== News
 
 * link:https://www.designernews.co/[https://www.designernews.co/]
+* link:http://sidebar.io/[http://sidebar.io/]
 
 ===== Ins
 
+* link:http://oozled.com/[http://oozled.com/]
 * link:https://dribbble.com/[https://dribbble.com/]
+* link:http://codepen.io/patterns/[http://codepen.io/patterns/]
+* link:https://cssanimation.rocks/clocks/[https://cssanimation.rocks/clocks/]
+
+===== Colors
+
+* link:http://colorhunt.co/[http://colorhunt.co/]
+* link:http://jackiebalzer.com/color[http://jackiebalzer.com/color]
+* link:http://www.colorhexa.com/[http://www.colorhexa.com/]
+* link:http://www.colorhexa.com/color-names[http://www.colorhexa.com/color-names]
+* link:http://colorfulgradients.tumblr.com/[http://colorfulgradients.tumblr.com/]
+* link:http://www.rocket-design.fr/color-template/[http://www.rocket-design.fr/color-template/]
+
+===== Tools
+
+* link:http://lugolabs.com/caret[http://lugolabs.com/caret]
+* link:http://css2sass.herokuapp.com/[http://css2sass.herokuapp.com/]
+* link:http://qrohlf.com/trianglify-generator/[http://qrohlf.com/trianglify-generator/]
 
 ===== Tutorials
 
 * link:http://webdesign.tutsplus.com/[http://webdesign.tutsplus.com/]
+
+===== Awesome
+
+* link:http://zh.learnlayout.com/[http://zh.learnlayout.com/]
+* link:http://juanitofatas.com/code-guide/[http://juanitofatas.com/code-guide/]
+* link:http://binb.tw/ebookmag/00/00.html[http://binb.tw/ebookmag/00/00.html]
 
 ===== Reading
 
