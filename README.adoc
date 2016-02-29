@@ -1,35 +1,24 @@
+=== Web Design
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-===== Pretty Website
+===== Pretty Websites
 
 * link:https://castle.co/design/basiliq[https://castle.co/design/basiliq]
 * link:https://stripe.com/atlas[https://stripe.com/atlas]
 * link:http://www.penxo.com/[http://www.penxo.com/]
 * link:https://24ways.org/[https://24ways.org/]
 
-===== News
+===== News and Resources
 
 * link:https://www.designernews.co/[https://www.designernews.co/]
 * link:http://sidebar.io/[http://sidebar.io/]
 
-===== Ins
+===== Inspirations
 
 * link:http://oozled.com/[http://oozled.com/]
 * link:https://dribbble.com/[https://dribbble.com/]
 * link:http://codepen.io/patterns/[http://codepen.io/patterns/]
 * link:https://cssanimation.rocks/clocks/[https://cssanimation.rocks/clocks/]
+* link:https://pattle.github.io/simpsons-in-css/[https://pattle.github.io/simpsons-in-css/]
 
 ===== Colors
 
@@ -50,13 +39,14 @@
 
 * link:http://webdesign.tutsplus.com/[http://webdesign.tutsplus.com/]
 
-===== Awesome
+===== Berry Goods
 
 * link:http://zh.learnlayout.com/[http://zh.learnlayout.com/]
 * link:http://juanitofatas.com/code-guide/[http://juanitofatas.com/code-guide/]
 * link:http://binb.tw/ebookmag/00/00.html[http://binb.tw/ebookmag/00/00.html]
+* link:http://adamschwartz.co/magic-of-css/[http://adamschwartz.co/magic-of-css/]
+* link:https://lizheming.github.io/wtf-html-css/[https://lizheming.github.io/wtf-html-css/]
 
 ===== Reading
 
 * link:http://www.inside.com.tw/2015/07/09/symptoms-of-over-designed-websites[http://www.inside.com.tw/2015/07/09/symptoms-of-over-designed-websites]
-
