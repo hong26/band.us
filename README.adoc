@@ -53,3 +53,18 @@ Collection of Links for Web Designers
 ===== Coffee Time
 
 * link:http://www.inside.com.tw/2015/07/09/symptoms-of-over-designed-websites[http://www.inside.com.tw/2015/07/09/symptoms-of-over-designed-websites]
+
+=== Git
+
+* link:https://ihower.tw/git/[https://ihower.tw/git/]
+* link:http://gitbook.liuhui998.com/[http://gitbook.liuhui998.com/]
+* link:http://jlord.us/git-it/index-zhtw.html[http://jlord.us/git-it/index-zhtw.html]
+* link:http://marklodato.github.io/visual-git-guide/index-zh-cn.html[http://marklodato.github.io/visual-git-guide/index-zh-cn.html]
+
+=== Ruby
+
+* link:http://lrthw.github.io/[http://lrthw.github.io/]
+* link:http://axgle.github.io/rhg/[http://axgle.github.io/rhg/]
+* link:http://betterspecs.org/zh_cn/[http://betterspecs.org/zh_cn/]
+
+=== Languages
