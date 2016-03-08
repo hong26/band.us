@@ -59,6 +59,7 @@
 * link:https://ihower.tw/git/[https://ihower.tw/git/]
 * link:http://gitbook.liuhui998.com/[http://gitbook.liuhui998.com/]
 * link:http://jlord.us/git-it/index-zhtw.html[http://jlord.us/git-it/index-zhtw.html]
+* link:http://wildlyinaccurate.com/a-hackers-guide-to-git/[http://wildlyinaccurate.com/a-hackers-guide-to-git/]
 * link:http://marklodato.github.io/visual-git-guide/index-zh-cn.html[http://marklodato.github.io/visual-git-guide/index-zh-cn.html]
 
 ===== Ruby
@@ -66,16 +67,31 @@
 * link:http://lrthw.github.io/[http://lrthw.github.io/]
 * link:http://axgle.github.io/rhg/[http://axgle.github.io/rhg/]
 * link:http://betterspecs.org/zh_cn/[http://betterspecs.org/zh_cn/]
+* link:http://ruby-hacking-guide.github.io/[http://ruby-hacking-guide.github.io/]
 
 ===== JavaScript
 
 * link:http://jsforcats.com/[http://jsforcats.com/]
 * link:http://thenodeway.io/[http://thenodeway.io/]
 * link:http://book.mixu.net/node/[http://book.mixu.net/node/]
+* link:http://es6.ruanyifeng.com/[http://es6.ruanyifeng.com/]
 * link:http://ejohn.org/apps/learn/[http://ejohn.org/apps/learn/]
 * link:http://singlepageappbook.com/[http://singlepageappbook.com/]
 * link:http://eloquentjavascript.net/[http://eloquentjavascript.net/]
 * link:http://fsje.codefellows.org/index.html[http://fsje.codefellows.org/index.html]
 * link:http://lihaoyi.github.io/hands-on-scala-js[http://lihaoyi.github.io/hands-on-scala-js]
+* link:http://bonsaiden.github.io/JavaScript-Garden/zh/[http://bonsaiden.github.io/JavaScript-Garden/zh/]
 * link:http://adamjspooner.github.io/coffeescript-meet-backbonejs/[http://adamjspooner.github.io/coffeescript-meet-backbonejs/]
 * link:http://addyosmani.com/resources/essentialjsdesignpatterns/book/[http://addyosmani.com/resources/essentialjsdesignpatterns/book/]
+
+===== Linux
+
+* link:http://billie66.github.io/TLCL/index.html[http://billie66.github.io/TLCL/index.html]
+* link:http://happypeter.github.io/tealeaf-http/[http://happypeter.github.io/tealeaf-http/]
+* link:http://wjp2013.github.io/tool/nginx-basic/[http://wjp2013.github.io/tool/nginx-basic/]
+
+===== Database
+
+* link:http://try.redis.io/[http://try.redis.io/]
+* link:http://www.sqlteaching.com/[http://www.sqlteaching.com/]
+* link:https://github.com/JasonLai256/the-little-redis-book/blob/master/cn/redis.md[https://github.com/JasonLai256/the-little-redis-book/blob/master/cn/redis.md]
