@@ -1,7 +1,5 @@
 === Web Design
 
-Collection of Links for Web Designers
-
 ===== Pretty Websites
 
 * link:https://castle.co/design/basiliq[https://castle.co/design/basiliq]
@@ -54,17 +52,30 @@ Collection of Links for Web Designers
 
 * link:http://www.inside.com.tw/2015/07/09/symptoms-of-over-designed-websites[http://www.inside.com.tw/2015/07/09/symptoms-of-over-designed-websites]
 
-=== Git
+=== Web Development
+
+===== Git
 
 * link:https://ihower.tw/git/[https://ihower.tw/git/]
 * link:http://gitbook.liuhui998.com/[http://gitbook.liuhui998.com/]
 * link:http://jlord.us/git-it/index-zhtw.html[http://jlord.us/git-it/index-zhtw.html]
 * link:http://marklodato.github.io/visual-git-guide/index-zh-cn.html[http://marklodato.github.io/visual-git-guide/index-zh-cn.html]
 
-=== Ruby
+===== Ruby
 
 * link:http://lrthw.github.io/[http://lrthw.github.io/]
 * link:http://axgle.github.io/rhg/[http://axgle.github.io/rhg/]
 * link:http://betterspecs.org/zh_cn/[http://betterspecs.org/zh_cn/]
 
-=== Languages
+===== JavaScript
+
+* link:http://jsforcats.com/[http://jsforcats.com/]
+* link:http://thenodeway.io/[http://thenodeway.io/]
+* link:http://book.mixu.net/node/[http://book.mixu.net/node/]
+* link:http://ejohn.org/apps/learn/[http://ejohn.org/apps/learn/]
+* link:http://singlepageappbook.com/[http://singlepageappbook.com/]
+* link:http://eloquentjavascript.net/[http://eloquentjavascript.net/]
+* link:http://fsje.codefellows.org/index.html[http://fsje.codefellows.org/index.html]
+* link:http://lihaoyi.github.io/hands-on-scala-js[http://lihaoyi.github.io/hands-on-scala-js]
+* link:http://adamjspooner.github.io/coffeescript-meet-backbonejs/[http://adamjspooner.github.io/coffeescript-meet-backbonejs/]
+* link:http://addyosmani.com/resources/essentialjsdesignpatterns/book/[http://addyosmani.com/resources/essentialjsdesignpatterns/book/]
