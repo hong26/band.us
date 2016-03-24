@@ -3,3 +3,9 @@
 === Resources
 
 link:https://github.com/2892/band.us/blob/master/resources.adoc[https://github.com/2892/band.us/blob/master/resources.adoc]
+
+=== Projects
+
+===== Coding Styles
+
+===== Snippets
