@@ -1,0 +1,20 @@
+= Project
+
+Codebase for Project.ext Project.
+
+=== Requirement
+
+* NodeJS
+* Webpack
+
+=== Installation
+
+=== Development
+
+```
+node index.js
+```
+
+=== License
+
+The MIT License (© 2016 username@coding.io)
