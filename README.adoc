@@ -6,7 +6,14 @@
 
 === Coding Styles
 
+* link:https://github.com/JuanitoFatas/ruby-style-guide/blob/master/README-zhCN.md[https://github.com/JuanitoFatas/ruby-style-guide/blob/master/README-zhCN.md]
+* link:https://github.com/aseaday/git-style-guide[https://github.com/aseaday/git-style-guide]
+
 === Snippets
 
 * link:https://github.com/github/gitignore[https://github.com/github/gitignore]
 * link:https://github.com/2892/band.us/tree/master/snippets[https://github.com/2892/band.us/tree/master/snippets]
+
+=== Tips
+
+* link:https://github.com/oneuijs/You-Dont-Need-jQuery/blob/master/README.zh-CN.md[https://github.com/oneuijs/You-Dont-Need-jQuery/blob/master/README.zh-CN.md]
