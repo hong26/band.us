@@ -1,1 +1,5 @@
-# band.us
+= Index
+
+=== Resources
+
+link:resources.adoc[https://github.com/2892/band.us/blob/master/resources.adoc]
