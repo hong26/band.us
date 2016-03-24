@@ -2,6 +2,43 @@
 
 === .gitignore
 
-每个项目必须包含 `.gitignore` 文件。不同类型（Rails、NodeJS 等）的项目需要不同的 `.gitignore` 文件，一般参考社区通用的模板 [https://github.com/github/gitignore](https://github.com/github/gitignore)
+每个项目必须包含 `.gitignore` 文件。不同类型（Rails、NodeJS 等）的项目需要不同的 `.gitignore` 文件，一般参考社区通用的模板 link:https://github.com/github/gitignore[https://github.com/github/gitignore]
 
-针对 NodeJS 项目，可以复制 [https://github.com/2892/band.us/blob/master/snippets/nodejs.gitignore](https://github.com/2892/band.us/blob/master/snippets/nodejs.gitignore) 的内容
+针对 NodeJS 项目，可以复制 link:https://github.com/2892/band.us/blob/master/snippets/nodejs.gitignore[https://github.com/2892/band.us/blob/master/snippets/nodejs.gitignore] 的内容
+
+=== 代码缩进
+
+统一使用两个空格，包括 Swift 项目
+
+=== JavaScript
+
+* 统一使用 ES6 来写项目，并在项目中通过 `node-version` 文件来声明 NodeJS 版本
+* 不使用 `src/` 命名文件目录；文件目录 `lib/` 不存放预处理器的编译结果（文件）
+* 用于浏览器执行的预处理器编译结果，一律不加入代码库（由服务端进行非 git 版本控制）
+* 代码中，合理使用 `const` 和 `let` 关键字；代码不使用分号 `;`
+* 保持项目文件目录清晰，不使用非常规的单词命名文件目录或者文件（例如 abc、qq、xiaoming 等）
+* 第三方库的使用原则：优秀即可用（例如 `superagent`、`underscorejs` 等）；优先使用第三方库
+* 项目命名、文件命名、文件目录命名、变量命名、函数命名，使用词典可以查到的单词，或者按照社区命名习惯（例如 reactify、swifter 等）
+
+=== Miscellaneous
+
+===== 常用文件目录命名
+
+* `public`、`static` 静态文件
+* `assets` 打包生成的文件
+* `images` 图片资源
+* `routes` 路由配置文件或目录
+* `styles` 样式文件
+* `views` 视图文件
+* `helpers`、`utils` 助手、跑龙套角色
+
+> 文件目录尽量使用复数和小写的形式
+
+===== 常用文件命名
+
+* `index`、`main` 入口文件，索引文件
+* `server` 服务器代码入口
+* `app` 应用代码入口
+* `settings` 配置文件
+
+> 不使用类似 `webpack.config.local.js` 的方式命名文件，`.env.example` 和 `webpack.config.js` 除外
