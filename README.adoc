@@ -2,4 +2,4 @@
 
 === Resources
 
-link:resources.adoc[https://github.com/2892/band.us/blob/master/resources.adoc]
+link:https://github.com/2892/band.us/blob/master/resources.adoc[asfasf]
