@@ -1,1 +1,7 @@
+= 团队项目协助共同准则
 
+=== .gitignore
+
+每个项目必须包含 `.gitignore` 文件。不同类型（Rails、NodeJS 等）的项目需要不同的 `.gitignore` 文件，一般参考社区通用的模板 [https://github.com/github/gitignore](https://github.com/github/gitignore)
+
+针对 NodeJS 项目，可以复制 [https://github.com/2892/band.us/blob/master/snippets/nodejs.gitignore](https://github.com/2892/band.us/blob/master/snippets/nodejs.gitignore) 的内容
