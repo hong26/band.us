@@ -4,8 +4,9 @@
 
 link:https://github.com/2892/band.us/blob/master/resources.adoc[https://github.com/2892/band.us/blob/master/resources.adoc]
 
-=== Projects
+=== Coding Styles
 
-===== Coding Styles
+=== Snippets
 
-===== Snippets
+* link:https://github.com/github/gitignore[https://github.com/github/gitignore]
+* link:https://github.com/2892/band.us/tree/master/snippets[https://github.com/2892/band.us/tree/master/snippets]
