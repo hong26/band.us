@@ -18,7 +18,7 @@
 
 * link:https://github.com/oneuijs/You-Dont-Need-jQuery/blob/master/README.zh-CN.md[https://github.com/oneuijs/You-Dont-Need-jQuery/blob/master/README.zh-CN.md]
 
-=== Learn React
+=== React
 
 * link:https://github.com/reactjs/react-basic[https://github.com/reactjs/react-basic]
 * link:https://github.com/reactjs/react-router-tutorial[https://github.com/reactjs/react-router-tutorial]
