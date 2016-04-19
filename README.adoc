@@ -19,6 +19,17 @@
 * link:https://github.com/oneuijs/You-Dont-Need-jQuery/blob/master/README.zh-CN.md[https://github.com/oneuijs/You-Dont-Need-jQuery/blob/master/README.zh-CN.md]
 * link:http://www.ruanyifeng.com/blog/2014/05/oauth_2_0.html[理解OAuth 2.0]
 
+=== APIs
+
+```
+https://ruby-china.org/api/v3/hello.json?access_token=
+https://ruby-china.org/oauth/token?grant_type=password&username=&password=
+```
+
+```
+require('querystring').stringify
+```
+
 === React
 
 * link:https://github.com/reactjs/react-basic[https://github.com/reactjs/react-basic]
