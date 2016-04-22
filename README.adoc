@@ -17,8 +17,8 @@
 === Tips
 
 * link:https://github.com/oneuijs/You-Dont-Need-jQuery/blob/master/README.zh-CN.md[https://github.com/oneuijs/You-Dont-Need-jQuery/blob/master/README.zh-CN.md]
-* link:http://www.ruanyifeng.com/blog/2014/05/oauth_2_0.html[理解OAuth 2.0]
 * link:http://hackerthemes.com/bootstrap-cheatsheet[http://hackerthemes.com/bootstrap-cheatsheet]
+* link:http://www.ruanyifeng.com/blog/2014/05/oauth_2_0.html[理解OAuth 2.0]
 
 === APIs
 
